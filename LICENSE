@@ -1,0 +1,37 @@
+Unlokit Cockpit — End User Licence
+
+Copyright (c) 2026 Unlokit. All rights reserved.
+
+This repository distributes compiled builds of Unlokit Cockpit. The source code is not published
+and no rights to it are granted.
+
+PERMITTED
+
+You may download, install and use the published builds on vehicles you own or operate, for as many
+of your own vehicles as you like, at no cost.
+
+NOT PERMITTED
+
+You may not:
+
+  - redistribute, mirror, resell or bundle the application or any part of it;
+  - repackage, re-sign, modify, or publish a derived or renamed version;
+  - decompile, disassemble or reverse engineer the application, except to the extent that this
+    restriction is prohibited by applicable law;
+  - extract assets, layouts, themes, artwork or code from the application for use elsewhere;
+  - use the application, or anything derived from it, to train or fine-tune a machine learning
+    model, or to generate a competing product.
+
+NO WARRANTY
+
+The application is provided "as is", without warranty of any kind, express or implied. It
+interacts with vehicle systems and displays. You accept all risk arising from its installation and
+use, including any effect on the vehicle, its software, or its warranty.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM THE
+USE OR INABILITY TO USE THIS SOFTWARE.
+
+NOT AFFILIATED
+
+Unlokit Cockpit is an independent product. It is not affiliated with, endorsed by, or connected to
+Jetour, Chery, or any vehicle manufacturer. All trademarks belong to their respective owners.
