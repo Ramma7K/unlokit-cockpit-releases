@@ -4,60 +4,56 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
-## 1.73 — 9 August 2026
+## 1.84 — 10 August 2026 · first public release
+
+**Your instrument cluster, your way.**
+Replace the factory gauge with your own scene, palette and layout, or keep the factory one and add
+widgets around it. Speed, gear, range, tyre pressures and navigation guidance come from the car
+itself.
+
+**A home screen you compose.**
+Icons down one side and a centre you fill yourself. Tap **✎** in the corner and the layout becomes
+editable in place: drag tiles to move them, drag a corner to resize, hold one to put an app in it or
+pin it so nothing can push it out of the way.
+
+**Every screen, used properly.**
+Split the main screen between two or three apps at whatever sizes suit you, save those as presets,
+and send any app to any screen from the app drawer.
 
 **Now playing, properly.**
-The media tile shows real album art, a progress bar, and working skip/play controls. It adapts to
-whatever size you give it instead of cropping, and tapping it opens whichever app is actually
+Real album art, a progress bar and working skip controls. Tapping it opens whichever app is actually
 playing.
 
-**Send an app to another screen.**
-In the app drawer, pick which screen apps should open on — or hold any app and choose "Open on
-another screen" for a one-off.
+**Open apps with real thumbnails.**
+Recents shows the actual screen of each running app, in a carousel you can flick through. Swipe a
+card away to close it and give the memory back.
+
+**The bits that were missing.**
+A floating Back button — or an edge swipe — that works over any app. A quick tray on the screen edge
+for instant access to apps and controls. An app drawer with folders, sorting and search.
+
+**Vehicle controls and macros.**
+Climate, windows, lights and mirrors from one panel, plus macros that chain several actions into one
+press — like leaving the car running and locked while you step out.
+
+**Make it yours.**
+A background image with adjustable frost and darkness, glass tiles you can make as solid or as
+see-through as you like, accent colours and interface scale.
 
 **Automatic updates.**
-The app now tells you when a new version is out and can install it for you. It only ever installs
-with your permission, and never while the car is moving.
+The app tells you when a new version is out and can install it for you. It only ever installs with
+your permission, and never while the car is moving.
 
-**Fixed**
-- The quick tray sometimes did nothing when tapped. On a moving car your finger always drifts a
-  little, and the app was treating that as "cancelled". Any press now opens it.
-- Turning on the back gesture made the quick tray stop responding entirely — the gesture strip was
-  covering it. They now share the edge properly.
-- Added **Put the handle back** in tray settings, for when the handle ends up somewhere awkward.
-- The now-playing tile was often blank on the home screen.
+**An optional account.**
+Backs up your layouts, presets and macros so a reinstall — or a second car — comes back exactly as
+you left it. Everything works without one, for as long as you like. Sign-in is a code by email;
+there is no password to remember.
 
 ---
 
-## 1.72 — 9 August 2026
+### Privacy
 
-**Arrange your home screen on your home screen.**
-Tap the ✎ button in the top corner and the layout becomes editable in place: drag tiles to move
-them, drag the corner to resize, tap one to choose an app for it or pin it so nothing can push it
-out of the way. A grid appears while you edit so everything lines up.
-
-**One place for settings.**
-All settings now live in a single screen, grouped and searchable. Searching understands what you
-mean — "wallpaper" finds Background, "gesture" finds the Back button.
-
-**Cluster background fixes.**
-Choosing an image, or changing its blur or darkness, now takes effect immediately instead of
-needing the cluster theme turned off and on again.
-
----
-
-## 1.71 — 9 August 2026
-
-**Pin a tile.**
-Tiles can be locked in place so nothing moves them — useful for a radio or music tile you want in
-the same spot every time.
-
-**Fixed**
-- The quick tray was unreliable on a moving car.
-- The tray could get stuck permanently after being lost in the background.
-
----
-
-## Earlier versions
-
-Earlier builds were tested privately and are not listed here.
+- **Vehicle data never leaves the car.** Speed, location, doors, tyres — all of it stays on the head
+  unit.
+- **The update check sends nothing about you or your car.** It reads a public list of releases.
+- The optional account stores only your own settings. No telemetry, no advertising.
