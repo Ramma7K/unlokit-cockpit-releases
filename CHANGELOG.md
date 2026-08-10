@@ -4,6 +4,37 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 1.92 — 11 August 2026
+
+**It now appears in your app list.**
+On some cars the icon was missing after installing, because the system hides apps that can act as a
+home screen. There is a normal app icon now, so you can always open it.
+
+**Drag to reorder.**
+Quick-tray buttons are rearranged by dragging the ≡ grip instead of tapping arrows.
+
+**Automatic updates.**
+The app checks for new versions on its own and tells you when one is ready. It still only installs
+when you agree, and never while the car is moving.
+
+**A proper sign-in page**, and an account that backs up more.
+Rail order, tray settings, split presets, app groups, saved zones, cluster setup and calibration are
+all included now — several of them were quietly being left out.
+
+**Simpler cluster layouts.**
+Full, Free and Zones, and you can now save your own arrangement as a named preset instead of picking
+from fixed ones you could not change.
+
+**Fixed**
+- The instrument strip faded between taps — the system was forcing our layer to 80% opacity.
+- Maximising one app in split screen closed the others.
+- An empty split pane showed black instead of your background, and could not be filled again.
+- Recent apps show real thumbnails of each app, in a carousel.
+- Menus no longer refuse to open while the car is moving. Vehicle controls still do.
+- The tray could be missing after a first install.
+
+---
+
 ## 1.84 — 10 August 2026 · first public release
 
 **Your instrument cluster, your way.**
