@@ -4,6 +4,48 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 1.97 — 14 August 2026
+
+**Add and remove home tiles.**
+Tap ✎ on the home screen, then **+** to add a widget, an app shortcut, Now playing, Cabin or
+Navigation. Hold any tile to remove it. Until now you could move, resize and fill tiles but not
+change which ones were there — the only way was to switch to a different layout. Removing a tile
+closes the gap instead of leaving a hole, and Home setup can bring back anything you removed.
+
+**Split screen keeps your apps running.**
+Leaving the split for the car's own launcher and coming back used to restart everything. Maps and
+YouTube now come back where you left them.
+
+**The quick tray's climate buttons work.**
+A/C, Defrost and Rear were sending the wrong thing to the car and had quietly done nothing for a
+long time. They also light up now to match what the car is actually doing.
+
+**Navigation HUD text no longer overlaps.**
+On smaller placements the arrival time ran into everything beside it. The HUD now drops what does
+not fit instead of shrinking it past the point of being readable.
+
+**Menus open where you are looking.**
+In All Apps, holding an app, opening a folder's menu, choosing another screen or picking a group all
+used to appear in the middle of the display. They now drop down next to whatever you pressed.
+
+**The split Layout button gets out of the way.**
+It sat over the top of your apps permanently. It now fades to a small mark a few seconds after you
+last used it, and still opens with one tap.
+
+**Updates install while you are driving.**
+They used to be refused until the car stopped. You are now told what will happen — the launcher
+restarts, and the instrument cluster goes dark for a few seconds if you have it turned on — and you
+decide. Nothing installs without you agreeing.
+
+**New: an optional way to help.**
+**Settings › Privacy** has a switch, off unless you turn it on, that sends counts once a day — how
+often screens are opened, and which buttons the car did not respond to. That last one is the point:
+the climate buttons above were broken for months because a button that silently does nothing looks
+exactly like a button nobody pressed. Your location, routes, speed, media and installed apps are
+never sent, and there is no third-party tracking in the app. The screen lists all of it.
+
+---
+
 ## 1.92 — 11 August 2026
 
 **It now appears in your app list.**
