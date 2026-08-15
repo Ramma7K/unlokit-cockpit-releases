@@ -4,6 +4,23 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 1.98 — 15 August 2026
+
+**You can see the update downloading.**
+There is a progress bar with a percentage now. Before this the screen said "Downloading…" and then
+nothing changed, so there was no way to tell a slow connection from a stuck one.
+
+**"Later" means later, not never.**
+If you dismiss an update it comes back the next day. Before, dismissing it once meant you were never
+asked again and had to find it yourself in Settings. **Skip this version** still means never — that
+is what it is for.
+
+**The cabin fan goes all the way to 10.**
+It stopped at 7, three steps short of what the car's own climate panel does, so the top of the fan
+range could not be reached from the app at all.
+
+---
+
 ## 1.97 — 14 August 2026
 
 **Add and remove home tiles.**
