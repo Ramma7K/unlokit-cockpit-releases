@@ -4,6 +4,25 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.01 — 15 August 2026
+
+**Settings are readable.**
+The cards were letting the background photo show through behind the text, so how readable a setting
+was depended on what happened to be behind it — dark writing over a bright part of your wallpaper,
+light writing over a dark part, changing as you scrolled. The cards now stay solid enough to read
+against, whatever background you have chosen and wherever the opacity slider is set.
+
+**You can see the categories.**
+The headings that group the settings were the smallest and faintest text on the screen. They are now
+larger, brighter, and spaced so it is obvious which group each one belongs to.
+
+**Signing in has real buttons.**
+"Send me a code" and "Sign in" looked exactly like every other grey row, so there was nothing that
+looked pressable on a screen with one thing to do. Both are proper buttons now, the email and code
+boxes are labelled, and "Use a different email" is clearly the lesser of the two choices.
+
+---
+
 ## 2.00 — 15 August 2026
 
 **The tray updates as you press it.**
