@@ -4,6 +4,39 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 1.99 — 15 August 2026
+
+**Widgets have no background by default.**
+They used to arrive on a dark card whether it suited your wallpaper or not, and a screen of them
+looked like a wall of boxes. Now they draw only themselves. If you want a card back, hold a tile on
+the home screen and pick **Background** — Glass, Solid, Outline or None, per tile.
+
+**Climate buttons respond to every press.**
+Tapping fan **+** three times moved it one step, and the number only caught up when you closed and
+reopened the tray. A/C and Defrost looked dead for the same reason. Each control was asking the car
+what it was set to before deciding what to send, and the car answers a beat late — so several quick
+presses all read the same old value. They now count from what was just sent.
+
+**Choose your own tray buttons.**
+The vehicle row in the quick tray was fixed at A/C, Defrost and Rear. Pick up to four from every
+control the car has, **daytime lights** included — Settings › Quick buttons. Each one tells you
+whether it can show its state, since some controls the car never reports back.
+
+**Defrost F and Defrost R now say what they are:** Windscreen demist and Rear window heater.
+
+**A background appears as soon as you choose it.**
+It used to need a trip through a few other screens before it showed up.
+
+**Split screen puts your apps back where they were.**
+Coming back from the car's own settings left the panes empty even though the apps were still
+running. They are now moved back into their panes with whatever they were doing intact — the video
+still loaded, the route still set.
+
+**And it asks before replacing them.** Opening a saved layout closes whatever is in the split; it now
+warns and names what it is about to close.
+
+---
+
 ## 1.98 — 15 August 2026
 
 **You can see the update downloading.**
