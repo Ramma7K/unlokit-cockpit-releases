@@ -4,6 +4,32 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.02 — 15 August 2026
+
+**The whole screen is yours.**
+The car's status bar and navigation bar are hidden everywhere in the app, not just in split screen.
+Swipe in from the top or bottom edge to bring them back for a moment; they tuck away again on their
+own. If you would rather keep them — the clock lives up there — turn it off in **Appearance ›
+Screen**.
+
+**Widgets really do have no background now.**
+The last version said they would and they did not: a background was being written onto every widget
+the moment it was placed, so the new default never got a chance. Fixed, and existing widgets are
+cleared too. Set one per widget from **Surface** if you want the card back.
+
+**Glass you can read.**
+Settings and the app drawer keep the frosted look, but the page behind them is darkened so the text
+no longer changes contrast depending on what part of your wallpaper is underneath it. The search bar
+and buttons in All Apps got the same treatment.
+
+**Removing a home tile closes the gap.**
+The tile went but the space it left stayed empty. The row now closes up.
+
+**The background "Show it" switch works straight away** instead of needing you to leave the screen
+and come back.
+
+---
+
 ## 2.01 — 15 August 2026
 
 **Settings are readable.**
