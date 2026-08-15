@@ -4,6 +4,16 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.04 — 15 August 2026
+
+- **Removing a home tile actually removes it.** Press and hold a card, choose Remove, and it goes.
+  It used to say "Removed" and leave the card on screen.
+- **Cabin, Now playing and app shortcuts follow the Background setting.** Setting one to None really
+  does clear its card — those three were ignoring it entirely.
+- Home setup still brings back anything you removed, if you change your mind.
+
+---
+
 ## 2.03 — 15 August 2026
 
 - **Fixes 2.02 not starting at all.** If you are on 2.02 and the launcher will not open, install this.
