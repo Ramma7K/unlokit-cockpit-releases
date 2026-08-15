@@ -4,6 +4,22 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.10 — 16 August 2026
+
+### What's new
+- **Tiles stay exactly where you put them.** The home screen no longer rearranges itself when you
+  add or remove something.
+- Removing a tile leaves the space empty instead of stretching the others to fill it. One tile left
+  stays one tile, not a card covering the screen.
+- **Add always works.** If the screen is full it takes half of the biggest tile, so you no longer
+  have to go and resize something first.
+- Preferred the old behaviour? **Home setup › Rearrange tiles automatically** turns it back on.
+
+### Better
+- The **Add tile** button is properly sized and labelled, and matches the DONE button beside it.
+
+---
+
 ## 2.09 — 16 August 2026
 
 ### Fixed
