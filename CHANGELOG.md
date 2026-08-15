@@ -4,6 +4,23 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.08 — 16 August 2026
+
+### Fixed
+- **Removing home tiles works.** You can take off as many as you like, right down to none.
+- The cause: removing the *last* tile quietly put all of them back. So nine removals looked fine and
+  the tenth undid everything — which looked exactly like removal being broken.
+- An empty home screen is a real choice now. It shows "Tap to add one", and holding it brings back
+  everything you removed.
+
+### What's new
+- A tile running an app can be pointed at a different one with **Change the app**, without stopping
+  it first.
+- Removing a tile that was running an app also stops the app, instead of leaving it running
+  somewhere you cannot see it.
+
+---
+
 ## 2.07 — 16 August 2026
 
 ### What's new
