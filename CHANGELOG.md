@@ -4,6 +4,16 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.05 — 15 August 2026
+
+- **Another go at removing home tiles.** The setting that records a removed card was stored in a way
+  this ROM does not keep reliably. It is stored differently now.
+- **Pinning a tile** used the same storage, so that should be more reliable too.
+- If a card still will not go, the message now tells you it **failed** instead of claiming it worked.
+  Please send what it says — it names which part is at fault.
+
+---
+
 ## 2.04 — 15 August 2026
 
 - **Removing a home tile actually removes it.** Press and hold a card, choose Remove, and it goes.
