@@ -4,6 +4,22 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.00 — 15 August 2026
+
+**The tray updates as you press it.**
+The fan number and the lit state of A/C, Defrost and daytime lights waited for the tray to be closed
+and reopened before they caught up — the panel was being rebuilt a moment after each press and
+asking the car again, and the car answers a beat late. Buttons now change immediately, then settle
+to whatever the car reports.
+
+**Split screen finds apps that wandered off.**
+Coming back from the car's own settings could leave the panes empty while the app was still running
+— YouTube kept playing, Maps kept its route, but neither was in the split. They were sitting on the
+main screen, and the lookup that was supposed to find them only ever looked at freeform windows. It
+now checks every running app and moves it back into its pane.
+
+---
+
 ## 1.99 — 15 August 2026
 
 **Widgets have no background by default.**
