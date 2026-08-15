@@ -4,6 +4,16 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.03 — 15 August 2026
+
+- **Fixes 2.02 not starting at all.** If you are on 2.02 and the launcher will not open, install this.
+- The home screen could die before it drew anything, so nothing could launch it — including
+  DisplayMirror. The only way out was restarting the head unit.
+- Instrument screen and system access come back on their own once the app starts normally again.
+- Everything from 2.02 is still here: full screen, clear widgets, readable settings.
+
+---
+
 ## 2.02 — 15 August 2026
 
 **The whole screen is yours.**
