@@ -4,6 +4,18 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.06 — 15 August 2026
+
+- **Run a real app inside a home tile.** Hold a card, choose **Run an app here**, and pick Spotify or
+  YouTube Music — it actually runs there, playing and touchable. Not an icon that opens it: the app
+  itself, in the tile.
+- **One tile at a time.** Choosing a second tile moves it rather than adding another, because each
+  running app costs real performance on top of the launcher and the cluster.
+- **Try it on a big tile first.** A small tile gives the app very little room to draw.
+- If system access is not available, the tile falls back to a card that opens the app the normal way.
+
+---
+
 ## 2.05 — 15 August 2026
 
 - **Another go at removing home tiles.** The setting that records a removed card was stored in a way
