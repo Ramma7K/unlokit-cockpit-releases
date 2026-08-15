@@ -4,6 +4,18 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.07 — 16 August 2026
+
+### What's new
+- The "what's new" you are reading is laid out properly — headings, real bullets, no wall of text.
+- If you have skipped a few versions, the update screen now shows what changed in those too, behind
+  **See what else changed**.
+
+### Better
+- It tells you how many versions behind you are, so it is clear what you are catching up on.
+
+---
+
 ## 2.06 — 15 August 2026
 
 - **Run a real app inside a home tile.** Hold a card, choose **Run an app here**, and pick Spotify or
