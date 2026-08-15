@@ -4,6 +4,22 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.09 — 16 August 2026
+
+### Fixed
+- **Adding a tile no longer rearranges everything else.** Tiles you have already placed stay exactly
+  where they are.
+- A new tile lands in the first free space, top-left first — the same place every time, instead of
+  somewhere different on each try.
+- The first tile on an empty screen is a normal size now, not one card filling the whole area.
+
+### What's new
+- **Run an app here** is on the **+** menu, so you can add a tile that runs Spotify without
+  converting an existing tile first. It starts large, because an app needs room to draw.
+- The **+ Add** button is much bigger and easier to reach from the driver's seat.
+
+---
+
 ## 2.08 — 16 August 2026
 
 ### Fixed
