@@ -4,6 +4,32 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.11 — 16 August 2026 · test release
+
+### What's new
+- **Your car's hidden settings.** Settings › Vehicle › Car configuration opens 66 settings the car
+  has but never shows you — drift mode, tank turn, camping levelling, the badge light, engine noise
+  cancelling, the roof display and the rest. Search them, switch them, and put every one of them
+  back with a single button.
+- **Round widgets.** Any widget except the two navigation strips can be a dial instead of a card.
+  Hold a tile on the home screen and pick **Shape**, or use **Shape** in the widget composer.
+- The compass, g-force and moon dials were redrawn rather than shrunk. As a circle the compass
+  needle moves out to the rim so the heading reads in the middle, and the moon becomes the whole
+  widget.
+
+### Careful
+- **This is a test release**, offered only to cars with test releases turned on. None of it has
+  been used in a car yet.
+- **Car configuration writes to the car itself, not to Unlokit.** Those settings stay changed even
+  if you uninstall this app. Unlokit writes down what each one was before touching it, so *Put
+  everything back* restores exactly that — but the six that change how the car drives ask first,
+  and they are worth leaving alone unless you know what they do.
+- **A switch there may do nothing.** The values Unlokit sends are the ones the car's own settings
+  app uses, but nobody has confirmed them on this model yet. If something turns on and will not
+  turn off, hold the row and type the value by hand.
+
+---
+
 ## 2.10 — 16 August 2026
 
 ### What's new
