@@ -4,6 +4,28 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.12 — 17 August 2026 · test release
+
+### What's new
+- **Dashcam.** Settings › Vehicle › Dashcam records while you drive. Pick any of the four cameras
+  that look at the road — front, rear, left mirror, right mirror — and record one or all four at
+  once. Front only to start with.
+- **It records the road, never the cabin.** The car also has cameras pointed at the driver and the
+  passengers. Unlokit will not record those, and there is no setting that turns that on.
+- Recordings are named by camera and time, kept in segments, and the oldest are deleted
+  automatically once you reach the storage limit you set. Nothing is ever sent anywhere.
+- **The car borrows a camera and gives it back.** Selecting reverse takes the rear camera and the
+  360 view takes all four. The Dashcam screen says which camera the car has, and recording picks up
+  again by itself.
+
+### Careful
+- **Still a test release.** The dashcam has never run in a car — this build is how it gets tried
+  for the first time.
+- Check the storage limit before a long drive. Four cameras fill space roughly four times as fast
+  as one, and that limit is what stops it filling the disk.
+
+---
+
 ## 2.11 — 16 August 2026 · test release
 
 ### What's new
