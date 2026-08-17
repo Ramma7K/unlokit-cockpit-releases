@@ -18,6 +18,8 @@ Newest first. Written for the people using the app, not for the people building 
 - A camera that produces no picture no longer leaves empty files behind, and is retried later
   instead of every few seconds.
 
+---
+
 ## 2.12 — 17 August 2026 · test release
 
 ### What's new
