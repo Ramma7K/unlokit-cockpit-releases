@@ -4,6 +4,20 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.13 — 17 August 2026 · test release
+
+### Fixed
+- **The dashcam recorded nothing.** It said "Recording", it created files, and every one of them
+  was empty. Unlokit was asking the camera for a frame rate it does not offer, and asking in a way
+  that meant the refusal was never reported — so it looked like it was working.
+- **The dashcam now tells the truth about itself.** It says "Recording" only once pictures are
+  actually arriving, "Starting…" until then, and "No picture from this camera" if none ever come.
+- **Recordings show their real size.** Anything under half a megabyte used to read "0 MB", so a
+  clip with a little in it and a clip with nothing in it looked the same. An empty one now says
+  "empty — nothing recorded".
+- A camera that produces no picture no longer leaves empty files behind, and is retried later
+  instead of every few seconds.
+
 ## 2.12 — 17 August 2026 · test release
 
 ### What's new
