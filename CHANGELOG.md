@@ -4,6 +4,19 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.15 — 18 August 2026 · test release
+
+### Fixed
+- **"Recording failed" now says what failed.** The camera row shows the actual reason — the size
+  that was refused, or the error the encoder gave — instead of three words that could mean any of
+  five different things.
+- **The dashcam tries several picture sizes instead of one.** The list a camera advertises is what
+  its sensor can produce; the part that compresses the video is separate hardware with its own
+  limits, and the two do not always agree on this car. It now works down the list until one is
+  accepted, ending with sizes that almost any encoder takes.
+
+---
+
 ## 2.14 — 18 August 2026 · test release
 
 ### What's new
