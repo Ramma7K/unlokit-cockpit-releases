@@ -4,6 +4,17 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.14 — 18 August 2026 · test release
+
+### What's new
+- **Join the Unlokit group.** There is now a QR code in the app — point your phone at it and it
+  opens our Telegram group. It is on the account screen, on the Updates screen, and on its own page
+  under Settings › Community, along with the link to unlokit.net.
+- The group is where questions get answered, where builds get discussed, and where the reports that
+  fix things — like this week's dashcam bug — come from.
+
+---
+
 ## 2.13 — 17 August 2026 · test release
 
 ### Fixed
