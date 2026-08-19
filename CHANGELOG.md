@@ -4,6 +4,20 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.18 — 20 August 2026 · test release
+
+### Fixed
+- **Every dashboard theme now shows the right numbers in the right place.** Until now only Foundry
+  was correct — Wave, Apex, Wells, Spectrum and Halo could show the wrong speed, battery or range,
+  or place them where they overlapped the car's own display. Every theme now uses Foundry's exact
+  layout and reads from one shared source, so no theme can disagree with another about what the car
+  is doing.
+- Each theme still looks distinct — the difference is the style of the central gauge, not the data
+  around it. Battery, speed, fuel and odometer read identically whichever theme you pick, and none
+  sit over the factory safety strip.
+
+---
+
 ## 2.17 — 19 August 2026 · test release
 
 ### Fixed
