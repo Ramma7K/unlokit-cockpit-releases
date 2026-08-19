@@ -4,6 +4,18 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.16 — 19 August 2026 · test release
+
+### Fixed
+- **The dashcam no longer sits on "Starting…" for ever.** Setting a camera up and watching for
+  problems were happening on the same thread, so when a camera took a long time to accept a
+  setting, the check meant to notice was stuck behind the thing it was supposed to notice.
+- **If it is stuck, it says so** — "Starting… 40s" rather than a "Starting…" that never changes.
+- **Giving up is quick.** It tries up to six picture sizes rather than every size the camera lists,
+  so a camera that will not record says so in seconds instead of minutes.
+
+---
+
 ## 2.15 — 18 August 2026 · test release
 
 ### Fixed
