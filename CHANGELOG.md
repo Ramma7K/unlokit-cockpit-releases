@@ -4,6 +4,21 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.17 — 19 August 2026 · test release
+
+### Fixed
+- **Opening the Dashcam screen froze the app.** It read the whole recordings folder three times
+  before drawing anything, on the same thread that draws — and after several days of a recorder
+  retrying, that folder holds thousands of files. It now reads once, in the background, and opens
+  straight away.
+- **The dashcam stops retrying a camera that will not record.** It used to try again every few
+  seconds for the whole drive, which is what made the rest of the app slow. It now waits longer each
+  time and then stops, saying so on the camera's row.
+- **Delete empty recordings.** Earlier builds left behind a lot of files with nothing in them. A
+  button on the Dashcam screen clears exactly those and leaves real footage alone.
+
+---
+
 ## 2.16 — 19 August 2026 · test release
 
 ### Fixed
