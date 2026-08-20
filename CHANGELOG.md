@@ -4,6 +4,16 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.23 — 20 August 2026
+
+### Fixed
+- **Screen off was touching the wrong thing.** On some cars, tapping it folded the mirrors and
+  locked the doors while the screen stayed on. It is now sent the correct, privileged way — the same
+  way the factory and DisplayMirror do it — so it powers the panel off and nothing else, and can
+  never reach the mirrors or doors again. If it is not available on your car, it now says so plainly.
+
+---
+
 ## 2.22 — 20 August 2026
 
 ### What's new
