@@ -4,6 +4,22 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.19 — 20 August 2026 · test release
+
+### Better
+- **The dashboards had a proper design pass.** The speed is now the one thing your eye lands on;
+  battery, fuel, odometer, clock and temperature step back into a clean, evenly spaced order around
+  it, sized to be read at a glance.
+- **One typeface across the instrument**, and the big speed number sits truly centred in the gauge
+  now instead of slightly low. It used to be a second, bolted-on font.
+- **The clock stops shouting** — it was the second-largest thing on the driver's display, for the
+  least driving-relevant number on it. Now a quiet readout in the corner.
+- **The gauges look finished** — each theme's arc, wave or rings was given enough weight and a
+  proper track to read as a real instrument, and the battery and fuel meters tint their own track so
+  each reads as one object.
+
+---
+
 ## 2.18 — 20 August 2026 · test release
 
 ### Fixed
