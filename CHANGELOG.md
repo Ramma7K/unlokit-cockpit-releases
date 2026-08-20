@@ -4,6 +4,22 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.21 — 20 August 2026 · test release
+
+### What's new
+- **Screen off (Delayed Look), done properly.** It now uses the car's own screen-off — the same one
+  the factory and DisplayMirror use — so the main screen genuinely turns off instead of showing a
+  black panel that is still lit. Touch the screen to bring it back, and it is a one-tap quick-tray
+  button (add "Screen off" in Studio › Quick buttons).
+
+### Fixed
+- **The old screen-off could strand you.** It dimmed and covered the screen and forced the car into
+  a silent state that could outlive the app, leaving the panel dark or the audio muted until a
+  restart. That approach is gone. The new one only powers the panel, and the screen is guaranteed to
+  come back — on touch, on a timer, and on the next app start if anything goes wrong.
+
+---
+
 ## 2.20 — 20 August 2026 · test release
 
 ### Better
