@@ -4,6 +4,24 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.22 — 20 August 2026
+
+### What's new
+- **A/C, DRL and Screen off are in the quick tray by default.** A/C and daytime running lights are
+  one-tap toggles that show whether they are on; Screen off sits beside your shortcuts.
+- **Screen off asks first.** It opens a small panel reminding you to take your key, and lets you set
+  how long the screen stays off with a quick drag — ten minutes by default, one to thirty, with
+  5 / 10 / 20 presets.
+- **The screen always comes back** — touch it to wake instantly, or leave it and it turns itself
+  back on after the time you set.
+
+### Careful
+- Screen off turns your main screen off, so try it parked the first time: tap it, confirm it goes
+  properly dark, and that a touch wakes it. If your car does not wake on touch, it comes back on its
+  own within the time you chose. Take your key with you before walking away.
+
+---
+
 ## 2.21 — 20 August 2026 · test release
 
 ### What's new
