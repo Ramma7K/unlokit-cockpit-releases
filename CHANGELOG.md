@@ -4,6 +4,20 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.20 — 20 August 2026 · test release
+
+### Better
+- **The Wave speedometer sweeps the whole screen again.** It starts as a gauge on the driver's side
+  — a sharp rise that crests under the speed — then flows smoothly to the far edge. The wave grows
+  and moves faster as you speed up, so it feels alive without being distracting.
+
+### Fixed
+- **The Dashcam screen was stuck on "Starting…".** It was only drawn once when you opened it, so it
+  never showed what the cameras did next. It now updates live — you will see "Recording", or the
+  real reason it could not, instead of a frozen "Starting…".
+
+---
+
 ## 2.19 — 20 August 2026 · test release
 
 ### Better
