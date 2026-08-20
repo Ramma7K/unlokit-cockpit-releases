@@ -4,6 +4,17 @@ Newest first. Written for the people using the app, not for the people building 
 
 ---
 
+## 2.24 — 20 August 2026
+
+### Fixed
+- **Screen off now powers the panel, and cannot touch anything else.** It went wrong because of a
+  missing permission the car needs before it lets an app turn a screen off — the one DisplayMirror
+  has. Unlokit now asks the car for it and only ever sends the screen-off once the car has actually
+  granted it; if not, it tells you it is unavailable rather than doing anything unexpected. It can no
+  longer reach the mirrors or doors.
+
+---
+
 ## 2.23 — 20 August 2026
 
 ### Fixed
